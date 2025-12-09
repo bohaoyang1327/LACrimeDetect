@@ -4,7 +4,7 @@
 
 -----------
 
-This is the final project of Sta 523, implemented by caramel-latte team(Binqian Chai and Bohao Yang).
+Author: caramel-latte team
 
 🪼 To check the updated version of our app: [Crime in LA](https://9h46ku-lexi-yang.shinyapps.io/project_shiny/)
 
