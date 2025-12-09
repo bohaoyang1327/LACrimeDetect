@@ -21,6 +21,16 @@ The second part involves the creation of a Shiny app, aimed at providing users w
 By combining EDA and the Shiny app, this project achieves a dual purpose: to analyze and interpret crime data for meaningful insights, and to provide an interactive platform that provides users with a deeper understanding of safety trends in Los Angeles. Through these efforts, we aim to enhance public awareness, support better decision-making, and contribute to a safer community.
 
 ---
+## Preview
+<img width="1914" height="825" alt="Screenshot 2025-12-09 at 12 12 47 AM" src="https://github.com/user-attachments/assets/b4a7d7ad-6007-4220-b8bc-6dc759417277" />
+
+<img width="1908" height="869" alt="Screenshot 2025-12-09 at 12 13 02 AM" src="https://github.com/user-attachments/assets/3c733228-302b-4b22-8c83-f9dbe15a34b3" />
+
+<img width="1899" height="898" alt="Screenshot 2025-12-09 at 12 13 12 AM" src="https://github.com/user-attachments/assets/620a4774-8545-4bd8-91be-a359956f38da" />
+
+
+---
+
 ## Variable Explanation
 
 The following are the definitions or brief explanations of variables (column names in the dateset) that will be used inside the project.
